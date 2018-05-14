@@ -1,29 +1,119 @@
 .vertical-menu {
-    width: 200px; /* Set a width if you like */
+	width: 200px; /* Set a width if you like */
+	
+	
 }
 
 .vertical-menu a {
-    background-color: #eee; /* Grey background color */
-    color: black; /* Black text color */
-    display: block; /* Make the links appear below each other */
-    padding: 30px; /* Add some padding */
-    text-decoration: none; /* Remove underline from links */
+	background-color: rgb(230,230,230,0.5); /* Grey background color */
+	color: black; /* Black text color */
+	display: block; /* Make the links appear below each other */
+	padding: 30px; /* Add some padding */
+	text-decoration: none; /* Remove underline from links */
+
 }
 
 .vertical-menu a:hover {
-    background-color: #ccc; /* Dark grey background on mouse-over */
+	background-color: grey; /* Dark grey background on mouse-over */
 }
 
 .vertical-menu a.active {
-    background-color: #4CAF50; /* Add a green color to the "active/current" link */
-    color: white;
+	background-color: white; /* Add a green color to the "active/current" link */
+	color: black;
+	opacity: 0.5;
 }
 .nopad{
 	padding-left:0px;
 	padding-right:0px;
 }
-body{
-	background-image: url("https://www.dodgechryslerjeepofmonroe.com/assets/shared/CustomHTMLFiles/Responsive/MRP/Jeep/2017/Wrangler/images/2017-Jeep-Wrangler-01.jpg") ;
+body#jeep{
+	background-image: url("http://wallpaper-gallery.net/images/cool-black-and-white-wallpapers/cool-black-and-white-wallpapers-1.jpg") ;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+body#fordExplorer{
+	background-image: url("https://www.acuitybrands.com/-/media/Images/AcuityBrands%20New/Solutions/2016%20Vertical%20Pages/Infrastructure/Roadways%20Bridges%20and%20Tunnels/Tunnels/Main-Tunnels%20jpg.jpg?h=873&la=en&w=872&hash=E828F74553E1D4B3311ED556A6B88C7E4CFF10EB") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body#fiat{
+	background-image: url("https://www.buildinglogix.net/wp-content/uploads/2017/01/BLX_Homepage-Banner.jpeg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body#cars{
+	background-image: url("http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1444253482/DG2015-new-york.jpg?itok=neFmsUY1") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body#addnew{
+	background-image: url("http://wallpaperget.com/images/cool-black-and-white-wallpapers-2.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+form{
+	font-size: 35px;
+	margin-left: 300px;
+	margin-top: 200px;
+
+	
+
+}
+h1{
+	color:black;
+	opacity: 0.5;
+
+
+}
+h2{
+	margin-top: 600px;
+	font-size: 15px;
+	margin-left: 175px;
+	color:white;
+	font-family: cursive;
+
+}
+p.inputtxt{
+	color:white;
+}
+img{
+
+}
+.pad{
+	padding: 5px;
+}
+.title{
+  	padding-top: 50px;
+  	padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
